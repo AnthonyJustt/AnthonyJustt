@@ -2,7 +2,7 @@
 
 - I am 28 years old engineer & analyst from Moscow 
 - I have Bachelor's degree in Information Technology and Associate's degree in Industrial Engineering from [BSTU](https://www.tu-bryansk.ru/)
-- I’m currently learning SwiftUI
+- Currently learning SwiftUI
 
 <!---
 AnthonyJustt/AnthonyJustt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
