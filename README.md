@@ -1,6 +1,6 @@
 ## Hey! I'm Anthony. Welcome!
 
-- I am 28 years old engineer & analyst from Moscow 
+- I am 30 years old engineer & analyst from Moscow 
 - I have Bachelor's degree in Information Technology and Associate's degree in Industrial Engineering from [BSTU](https://www.tu-bryansk.ru/)
 - Currently learning SwiftUI
 
